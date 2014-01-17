@@ -1,0 +1,163 @@
+body {
+	COLOR: #333333;
+	FONT-FAMILY: lucida grande, tahoma;
+	FONT-SIZE: 11px;
+	FONT-VARIANT: normal;
+}
+
+A:link {
+	text-decoration: none
+}
+
+A:visited {
+	text-decoration: none
+}
+
+A:active {
+	text-decoration: none
+}
+
+A:hover {
+	text-decoration: underline;
+}
+
+.tbl {
+	border-width: 0px;
+	border-spacing: ;
+	border-style: outset;
+	border-color: gray;
+	border-collapse: separate;
+	background-color: white;
+}
+
+.trow {
+	border-width: 0px;
+	padding: 5px;
+	margin: 10px;
+}
+
+.tcol {
+	border-width: 0px;
+	padding: 5px;
+	margin: 10px;
+}
+
+.bread1 {
+	FONT-SIZE: 11px;
+	height: 8px;
+	font-weight: bold;
+	background-color: rgb(98, 122, 173);
+	color: white;
+	border: 1px solid rgb(29, 64, 136);
+	padding: 3px 3px 3px 3px;
+	text-decoration: none;
+}
+
+.bread {
+	FONT-SIZE: 11px;
+	color: #666;
+	font-weight: bold;
+}
+
+.fbFieldhdr {
+	color: #666;
+	font-size: 11px;
+}
+
+.fbFieldValue {
+	font-size: 11px;
+	line-height: 1.25;
+}
+
+.fbFrndsHdr {
+	color: #3b5998;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.fbFrndsSubHdr {
+	color: #666;
+	font-size: 11px;
+	border-bottom: 1px solid lightGrey;
+}
+
+.fbFrndsName {
+	font-size: 11px;
+	FONT-WEIGHT: bold;
+}
+
+.fbFrndsDt {
+	color: #666;
+	font-size: 11px;
+}
+
+.fbMdlHdrUser {
+	color: #3b5998;
+	font-size: 12px;
+	font-weight: bold;
+	border-bottom: 1px solid lightGrey;
+}
+
+.fbMdlHdr {
+	color: #3b5998;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.fbMdlSubHdr {
+	color: #666;
+	font-size: 11px;
+	border-bottom: 1px solid lightGrey;
+}
+
+.title {
+	COLOR: #565356;
+	FONT-SIZE: 11px;
+}
+
+.price {
+	COLOR: #565356;
+	FONT-SIZE: 11px;
+	FONT-WEIGHT: bold;
+}
+
+.homeHdr {
+	color: #3b5998;
+	font-size: 22px;
+	font-weight: bold;
+	border-bottom: 1px solid lightGrey;
+}
+
+.homeSubHdr {
+	color: #666;
+	font-size: 18px;
+	font-weight: bold;
+	height: 30px;
+}
+
+.homeBorder {
+	border-top: 1px solid lightGrey;
+	border-bottom: 1px solid lightGrey;
+	border-left: 1px solid lightGrey;
+	border-right: 1px solid lightGrey;
+}
+
+.frndsPageHdr {
+	color: #3b5998;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.frndsPageSubHdrBorder {
+	border-bottom: 1px solid lightGrey;
+}
+
+.frndsPageSubHdr {
+	color: #666;
+	font-size: 11px;
+}
+
+.frndsPageName {
+	font-size: 11px;
+	FONT-WEIGHT: none;
+}

@@ -1,0 +1,78 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	COLOR: #333333;
+	FONT-FAMILY: lucida grande, tahoma;
+	FONT-SIZE: 11px;
+	FONT-VARIANT: normal;
+}
+
+A:link {
+	text-decoration: none
+}
+
+A:visited {
+	text-decoration: none
+}
+
+A:active {
+	text-decoration: none
+}
+
+A:hover {
+	text-decoration: underline;
+}
+
+.autoDealsPageHdr {
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+	border-bottom: 1px solid lightGrey;
+}
+
+.title {
+	COLOR: #565356;
+	FONT-SIZE: 11px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.msrp {
+	FONT-SIZE: 11px;
+	text-decoration: line-through;
+	
+}
+
+.price {
+	FONT-SIZE: 14px;
+	FONT-WEIGHT: bold;
+}
+
+.savings {
+	FONT-SIZE: 11px;
+}
+
+.label {
+	font-size: 11px;
+	COLOR: #666;
+}
+
+.tbl {
+	border-width: 0px;
+	border-spacing: 2px;
+	border-style: outset;
+	border-color: gray;
+	border: 1px solid lightGrey;
+}
+
+.tblRow {
+	border-width: 0px;
+	padding: 8px 8px 8px 8px;
+	background-color: #3b5998;
+}
+
+.tblCol {
+	border-width: 0px;
+	padding: 5px 5px 5px 5px;
+	align: "left";
+}
